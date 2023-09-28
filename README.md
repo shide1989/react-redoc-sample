@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Redoc React Sample
 
 This Redoc React sample project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 and pnpm.
+
+It provides a started to build a React application with Redocly's [Redoc](https://redocly.com/)
 
 ### Installation
 
